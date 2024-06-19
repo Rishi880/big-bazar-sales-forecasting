@@ -6,7 +6,7 @@ There are many seasons that sales are significantly higher or lower than average
 Aim:
 My aim in this project is to build a model which predicts sales of the stores. With this model, Walmart authorities can decide their future plans which is very important for arranging stocks, calculating revenue and deciding to make new investment or not.
 
-Solution:
+# Solution:
 With the accurate prediction company can;
 
 Determine seasonal demands and take action for this
@@ -14,11 +14,11 @@ Protect from money loss because achieving sales targets can have a positive effe
 Forecast revenue easily and accurately
 Manage inventories
 Do more effective campaigns
-Plan:
-Understanding, Cleaning and Exploring Data
+# Plan:
+1 . Understanding, Cleaning and Exploring Data
 
-Preparing Data to Modeling
+2 . Preparing Data to Modeling
 
-Random Forest Regressor
+3 . Random Forest Regressor
 
-ARIMA/ExponentialSmooting/ARCH Models
+4. ARIMA/ExponentialSmooting/ARCH Models
