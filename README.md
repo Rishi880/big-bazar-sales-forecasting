@@ -1,6 +1,5 @@
 
-
-
+![image](https://github.com/Rishi880/big-bazar-sales-forecasting/assets/154685907/436a4a2e-763e-438c-9962-92f1e70df4d2)
 
 # Walmart Sales Forecast
 
